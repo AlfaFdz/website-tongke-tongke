@@ -49,6 +49,7 @@ Project ini dibuat sebagai bagian dari pembelajaran pemrograman web, khususnya d
 
 ## Author
 
-**Alfaridzi**
-
-Mahasiswa Sistem Informasi
+**Ilmi Ahmad Alfaridzi**
+Universitas Hasanuddin
+Prodi Sistem Informasi
+H071251052
